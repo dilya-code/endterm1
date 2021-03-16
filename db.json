@@ -3,71 +3,61 @@
       "id": 1,
       "username": "taudilya",
       "password": "Taurb123*",
-      "email": "taurbekovadilnaz@gmail.com",
-      "subject": "Math"
+      "email": "taurbekovadilnaz@gmail.com"
     },
     {
       "id": 2,
       "username": "kusainova",
       "password": "Kusa123*",
-      "email": "kusainovaamina@mail.ru",
-      "subject": "Geography"
+      "email": "kusainovaamina@mail.ru"
     },
     {
       "id": 3,
       "username": "musinaaru",
       "password": "Musina123*",
-      "email": "musinaaruzhan@gmail.com",
-      "subject": "biology"
+      "email": "musinaaruzhan@gmail.com"
     },
     {
       "id": 4,
       "username": "bertysbayev",
       "password": "Bertys123*",
-      "email": "Bertysbayevsanzhar@mail.ru",
-      "subject": "Chemistry"
+      "email": "Bertysbayevsanzhar@mail.ru"
     },
     {
       "id": 5,
       "username": "onaybekovs",
       "password": "Onayb123*",
-      "email": "Onaybekovselim@gmail.com",
-      "subject": "Math"
+      "email": "Onaybekovselim@gmail.com"
     },
     {
       "id": 6,
       "username": "protasovad",
       "password": "Protasova123*",
-      "email": "Protasovadariya@yandex.ru",
-      "subject": "History"
+      "email": "Protasovadariya@yandex.ru"
     },
     {
       "id": 7,
       "username": "zhumazhanovad",
       "password": "Zhud123*",
-      "email": "Zhumazhanovadilnaz@gmail.com",
-      "subject": "Russian Language"
+      "email": "Zhumazhanovadilnaz@gmail.com"
     },
     {
       "id": 8,
       "username": "neptunyou",
       "password": "Neptun123*",
-      "email": "Neptun@gmail.com",
-      "subject": "English Language"
+      "email": "Neptun@gmail.com"
     },
     {
       "id": 9,
       "username": "bissemba",
       "password": "Bissemba123*",
-      "email": "Bissembayevabzal@gmail.com",
-      "subject": "History"
+      "email": "Bissembayevabzal@gmail.com"
     },
     {
       "id": 10,
       "username": "darkhannn",
       "password": "Iliyas123*",
-      "email": "Iliyasdarkhan@gmail.com",
-      "subject": "Chemistry"
+      "email": "Iliyasdarkhan@gmail.com"
     }
   ],
   "Subjects": [
