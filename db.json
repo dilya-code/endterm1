@@ -1,4 +1,4 @@
-{"profile": [
+"profile": [
     {
       "id": 1,
       "username": "taudilya",
@@ -72,15 +72,15 @@
       "Teachers": [
         {
           "Full Name": "L.Bamenova",
-          "Contacts": +7705548123
+          "Contacts": 7705548123
         },
         {
           "Full Name": "K.Kulinova",
-          "Contacts": +770574185
+          "Contacts": 770574185
         },
         {
           "Full Name": "M.Samenova",
-          "Contacts": +7702468231
+          "Contacts": 7702468231
         }
       ]
     },
@@ -94,15 +94,15 @@
       "Teachers": [
         {
           "Full Name": "128 GB",
-          "Contacts": +77546125
+          "Contacts": 77546125
         },
         {
           "Full Name": "256 GB",
-          "Contacts": +78952356
+          "Contacts": 78952356
         },
         {
           "Full Name": "512 GB",
-          "Contacts": +778953213
+          "Contacts": 778953213
         }
       ]
     },
@@ -117,15 +117,15 @@
       "Teachers": [
         {
           "Full Name": "N.Shukenov",
-          "Contacts": +7894153123
+          "Contacts": 7894153123
         },
         {
           "Full Name": "M.Baimurzin",
-          "Contacts": +564654564
+          "Contacts": 564654564
         },
         {
           "Full Name": "K.Kusainova",
-          "Contacts": +45645213
+          "Contacts": 45645213
         }
       ]
     },
@@ -141,15 +141,15 @@
       "Teachers": [
         {
           "Full Name": "K.Lapenko",
-          "Contacts": +7894562
+          "Contacts": 7894562
         },
         {
           "Full Name": "L.Lavina",
-          "Contacts": +789412563
+          "Contacts": 789412563
         },
         {
           "Full Name": "K.Khassenova",
-          "Contacts": +78945235
+          "Contacts": 78945235
         }
       ]
     },
@@ -163,15 +163,15 @@
       "Teachers": [
         {
           "Full Name": "M.Milkina",
-          "Contacts": +7894523
+          "Contacts": 7894523
         },
         {
           "Full Name": "M.Malikova",
-          "Contacts": +74123955
+          "Contacts": 74123955
         },
         {
           "Full Name": "K.Dividova",
-          "Contacts": +7895452
+          "Contacts": 7895452
         }
       ]
     },
@@ -186,15 +186,15 @@
       "Teachers": [
         {
           "Full Name": "M.Londonova",
-          "Contacts": +7894230
+          "Contacts": 7894230
         },
         {
           "Full Name": "K.Kulikova",
-          "Contacts": +85126330
+          "Contacts": 85126330
         },
         {
           "Full Name": "S.Omarova",
-          "Contacts": +7894530
+          "Contacts": 7894530
         }
       ]
     },
@@ -208,15 +208,15 @@
       "Teachers": [
         {
           "Full Name": "A.Saulenova",
-          "Contacts": +7894230
+          "Contacts": 7894230
         },
         {
           "Full Name": "Z.Zhumazhanova",
-          "Contacts": +74236320
+          "Contacts": 74236320
         },
         {
           "Full Name": "K.Musina",
-          "Contacts": +56234654780
+          "Contacts": 56234654780
         }
       ]
     }
@@ -235,27 +235,27 @@
         {
           "Full Name": "P.Loboda",
           "Exam Result": "7.5",
-          "Contacts": +78945610
+          "Contacts": 78945610
         },
         {
           "Full Name": "D.Dreaming",
           "Exam Result": "8",
-          "Contacts": +7412058
+          "Contacts": 7412058
         },
         {
           "Full Name": "M.Misoo",
           "Exam Result": "8.5",
-          "Contacts": +74185920
+          "Contacts": 74185920
         },
         {
           "Full Name": "I.Youplos",
           "Exam Result": "8.5",
-          "Contacts": +789453210
+          "Contacts": 789453210
         },
         {
           "Full Name": "S.Simuf",
           "Exam Result": "9",
-          "Contacts": +789415203
+          "Contacts": 789415203
         },
         
       ]
@@ -266,17 +266,17 @@
         {
           "Full Name": "K.Tackmina",
           "Exam Result": "1500",
-          "Contacts": +7894561
+          "Contacts": 7894561
         },
         {
           "Full Name": "N.Nastiya",
           "Exam Result": "1580",
-          "Contacts": +784123450
+          "Contacts": 784123450
         },
         {
           "Full Name": "K.Kolinf",
           "Exam Result": "1590",
-          "Contacts": +74185236
+          "Contacts": 74185236
         },
       ]
     },
@@ -286,27 +286,27 @@
         {
           "Full Name": "K.Samurayev",
           "Exam Result": "115",
-          "Contacts": +78945035
+          "Contacts": 78945035
         },
         {
           "Full Name": "S.Samiyev",
           "Exam Result": "120",
-          "Contacts": +7894582
+          "Contacts": 7894582
         },
         {
           "Full Name": "K.Logirev",
           "Exam Result": "118",
-          "Contacts": +7851423
+          "Contacts": 7851423
         },
         {
           "Full Name": "W.Wallet",
           "Exam Result": "119",
-          "Contacts": +7894501332
+          "Contacts": 7894501332
         },
         {
           "Full Name": "P.Pototatoto",
           "Exam Result": "110",
-          "Contacts": +7895042230
+          "Contacts": 7895042230
         },
       ]
     },
@@ -316,17 +316,17 @@
         {
           "Full Name": "P.Okinava",
           "Exam Result": "HSK5",
-          "Contacts": +74158562
+          "Contacts": 74158562
         },
         {
           "Full Name": "P.Horoshi",
           "Exam Result": "HSK4",
-          "Contacts": +7894562
+          "Contacts": 7894562
         },
         {
           "Full Name": "P.Kanatakana",
           "Exam Result": "HSK5",
-          "Contacts": +56520655
+          "Contacts": 56520655
         }
       ]
     },
@@ -336,17 +336,17 @@
       {
           "Full Name": "P.Pinyiin",
           "Exam Result": "JLPT6",
-          "Contacts": +56520655
+          "Contacts": 56520655
         }
         {
           "Full Name": "Q.Shi",
           "Exam Result": "JLPT5",
-          "Contacts": +56520655
+          "Contacts": 56520655
         }
         {
           "Full Name": "E.Unikuza",
           "Exam Result": "JLPT6",
-          "Contacts": +56520655
+          "Contacts": 56520655
         }
       ]
     }
